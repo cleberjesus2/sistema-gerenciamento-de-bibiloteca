@@ -30,3 +30,12 @@ O projeto é composto pelas seguintes classes:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/cleberjesus2/sistema-gerenciamento-de-bibiloteca.git
+
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd NOME_DO_REPOSITORIO
+
+3. Compile e execute o programa:
+```bash
+   javac BibliotecaMain.java
+   java BibliotecaMain
